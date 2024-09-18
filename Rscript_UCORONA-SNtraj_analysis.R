@@ -39,6 +39,50 @@ options(max.print = 1000000)
 
 
 
+#0.2 versions####
+sessionInfo()
+# R version 4.3.2 (2023-10-31)
+# Platform: aarch64-apple-darwin20 (64-bit)
+# Running under: macOS Sonoma 14.5
+# 
+# Matrix products: default
+# BLAS:   /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib 
+# LAPACK: /Library/Frameworks/R.framework/Versions/4.3-arm64/Resources/lib/libRlapack.dylib;  LAPACK version 3.11.0
+# 
+# locale:
+# [1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+# 
+# time zone: America/New_York
+# tzcode source: internal
+# 
+# attached base packages:
+# [1] stats     graphics  grDevices utils     datasets  methods   base     
+# 
+# other attached packages:
+#  [1] lavaan_0.6-17    nnet_7.3-19      tidyLPA_1.1.0    lcmm_2.1.0       lubridate_1.9.3  forcats_1.0.0    stringr_1.5.1    purrr_1.0.2      readr_2.1.5     
+# [10] tidyr_1.3.1      tibble_3.2.1     tidyverse_2.0.0  reshape_0.8.9    ggeffects_1.5.0  ggpubr_0.6.0     ggExtra_0.10.1   ggplot2_3.5.1    dplyr_1.1.4     
+# [19] merTools_0.6.1   arm_1.13-1       MASS_7.3-60.0.1  lmerTest_3.1-3   lme4_1.1-35.1    Matrix_1.6-5     miceadds_3.17-44 mice_3.16.0      psych_2.4.1     
+# [28] table1_1.4.3     writexl_1.4.2    labelled_2.12.0  sjlabelled_1.2.0 haven_2.5.4      foreign_0.8-86  
+# 
+# loaded via a namespace (and not attached):
+#   [1] RColorBrewer_1.1-3    rstudioapi_0.15.0     shape_1.4.6.1         datawizard_0.9.1      magrittr_2.0.3        jomo_2.7-6            farver_2.1.2         
+#   [8] nloptr_2.0.3          vctrs_0.6.5           minqa_1.2.6           rstatix_0.7.2         htmltools_0.5.8.1     broom_1.0.5           Formula_1.2-5        
+#  [15] mitml_0.4-5           parallelly_1.37.1     gsubfn_0.7            plyr_1.8.9            mime_0.12             lifecycle_1.0.4       iterators_1.0.14     
+#  [22] pkgconfig_2.0.3       R6_2.5.1              fastmap_1.2.0         future_1.33.2         shiny_1.8.0           snakecase_0.11.1      digest_0.6.36        
+#  [29] numDeriv_2016.8-1.1   colorspace_2.1-0      furrr_0.3.1           labeling_0.4.3        fansi_1.0.6           timechange_0.3.0      httr_1.4.7           
+#  [36] abind_1.4-5           compiler_4.3.2        withr_3.0.0           doParallel_1.0.17     pander_0.6.5          backports_1.5.0       carData_3.0-5        
+#  [43] DBI_1.2.0             fastDummies_1.7.3     broom.mixed_0.2.9.4   ggsignif_0.6.4        pan_1.9               tools_4.3.2           pbivnorm_0.6.0       
+#  [50] MplusAutomation_1.1.1 httpuv_1.6.14         glue_1.7.0            quadprog_1.5-8        nlme_3.1-164          promises_1.2.1        grid_4.3.2           
+#  [57] checkmate_2.3.1       generics_0.1.3        gtable_0.3.5          tzdb_0.4.0            data.table_1.15.4     hms_1.1.3             car_3.1-2            
+#  [64] utf8_1.2.4            foreach_1.5.2         pillar_1.9.0          later_1.3.2           mitools_2.4           splines_4.3.2         lattice_0.22-5       
+#  [71] survival_3.5-7        tidyselect_1.2.1      miniUI_0.1.1.1        knitr_1.48            blme_1.0-5            stats4_4.3.2          xfun_0.45            
+#  [78] texreg_1.39.3         proto_1.0.0           stringi_1.8.4         pacman_0.5.1          boot_1.3-28.1         codetools_0.2-19      cli_3.6.3            
+#  [85] rpart_4.1.23          xtable_1.8-4          munsell_0.5.1         Rcpp_1.0.12           globals_0.16.3        coda_0.19-4           marqLevAlg_2.0.8     
+#  [92] rngWELL_0.10-9        parallel_4.3.2        ellipsis_0.3.2        randtoolbox_2.0.4     mclust_6.0.1          listenv_0.9.1         glmnet_4.1-8         
+#  [99] mvtnorm_1.2-4         scales_1.3.0          insight_0.19.8        crayon_1.5.3          rlang_1.1.4           mnormt_2.1.1         
+
+
+
 #1.1 importing data####
 # NOT AVAILABLE
 
